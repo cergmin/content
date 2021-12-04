@@ -236,6 +236,9 @@ groups:
       - element-positioning-js
       - debounce
       - throttle
+  - name: "Алгоритмы"
+    items:
+      - introduction-to-algorithms
 ---
 
 JavaScript — язык программирования широкого спектра. На нём можно как создавать динамические интерфейсы, так и работать с базами данных и операционными системами.
